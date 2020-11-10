@@ -1,0 +1,28 @@
+Interesting content:
+
+The content is very informative and highlights the importance of wearing face masks in order to prevent the transmission of covid 19.
+There is a range of pictures and videos which keep the content varied.
+
+Consistency and quality of visual presentation:
+
+Both page are consistent as they use the same background and font etc. In some areas, the odd word was hard to read as it clashed with the 
+background slightly, but this wasn't really an issue.
+
+Quality of written presentation:
+
+On the whole, the quality was very good and it was easy to read. However, there were a few spelling mistakes which I have made comments on, but I'm sure these were just typos.
+
+Validity of HTML:
+
+The HTML all seems to be valid code with appropiate start and end points to each paragraph and heading etc.
+
+Evidence of collaboration:
+
+I can see that there is more than one user that has contributed to this project, and they have left comments on each others code to highlight anything that needs improving.
+There appears to be a balanced contribution between the users.
+
+Improvements:
+
+You could perhaps change the background in order to make some of the writing slightly more readable, and correct the spelling mistakes. Besides that, it is a very good website that gets your desired point across 
+with the use of varied content.
+
